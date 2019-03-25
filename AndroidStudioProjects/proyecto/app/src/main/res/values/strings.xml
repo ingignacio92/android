@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">proyecto</string>
+    <string name="buttonMain">buttonMain</string>
+    <string name="siguiente_layout">Siguiente Layout</string>
+    <string name="textview">TextView</string>
+    <string name="holaaaaa">holaaaaa</string>
+
+</resources>
